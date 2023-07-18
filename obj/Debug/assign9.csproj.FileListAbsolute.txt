@@ -1,0 +1,8 @@
+C:\dialytask\Day_7\assign9\bin\Debug\assign9.exe.config
+C:\dialytask\Day_7\assign9\bin\Debug\assign9.exe
+C:\dialytask\Day_7\assign9\bin\Debug\assign9.pdb
+C:\dialytask\Day_7\assign9\obj\Debug\assign9.csproj.AssemblyReference.cache
+C:\dialytask\Day_7\assign9\obj\Debug\assign9.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_7\assign9\obj\Debug\assign9.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_7\assign9\obj\Debug\assign9.exe
+C:\dialytask\Day_7\assign9\obj\Debug\assign9.pdb
